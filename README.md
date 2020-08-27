@@ -1,7 +1,7 @@
 
 # Hello, I am Gabriela and I love Web Development :heartpulse:
 
-![girl with curly hair](./gifcurlyhair.gif)
+<a href="https://tenor.com/view/curls-natural-curly-hair-black-hair-messy-hair-gif-15234653">Curls Natural GIF</a> from
 
 * 😄 My Pronouns: She/Her
 * 🌱 I am currently studying computing and using all my free time to learn more and more
