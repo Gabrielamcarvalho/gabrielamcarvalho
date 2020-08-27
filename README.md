@@ -1,7 +1,7 @@
 
 # Hello, I am Gabriela and I love Web Development :heartpulse:
 
-![](gifcurlyhair.gif)
+![](https://raw.githubusercontent.com/Gabrielamcarvalho/gabrielamcarvalho/master/gifcurlyhair.gif)
 
 * 😄 My Pronouns: She/Her
 * 🌱 I am currently studying computing and using all my free time to learn more and more
